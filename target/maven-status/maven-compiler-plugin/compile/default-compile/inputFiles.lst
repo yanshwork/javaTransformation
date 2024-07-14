@@ -1,0 +1,14 @@
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/repository/OrderRepository.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/service/OrderService.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/service/CustomerService.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/controller/CrudController.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/model/Product.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/dto/ProductDTO.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/model/Customer.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/repository/CustomerRepository.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/repository/ProductRepository.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/service/ProductService.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/dto/CustomerDTO.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/model/Order.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/dto/OrderDTO.java
+/Users/shteckel/Downloads/spring-mysql-app/src/main/java/com/example/CrudApplication.java
