@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # java-ecommerce-website
 
 ```src
@@ -35,3 +36,7 @@
 * CrudController contains an old style `Switch` statement that should be replaced by modern pattern matching code
 * CrudController uses an old `toArray(String[0])` which should be converted to `toArray()` in Java 17
 
+=======
+# javaTransformation
+Amazon Q
+>>>>>>> origin/main
