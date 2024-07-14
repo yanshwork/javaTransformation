@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-java 8 path - /Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home
+java 8 path: /Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home
+Project: spring-mysql-app
 
 # java-ecommerce-website
 
